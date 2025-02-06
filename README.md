@@ -10,3 +10,7 @@ The goal of this project is to use the dataset [Netflix titles](netflix_titles.c
 
 <img src="images/Netflix_1.png" width="600">
 <img src="images/Netflix_2.png" width="600">
+<img src="images/Netflix_3.png" width="600">
+<img src="images/Netflix_4.png" width="600">
+<img src="images/Netflix_5.png" width="600">
+<img src="images/Netflix_6.png" width="600">
